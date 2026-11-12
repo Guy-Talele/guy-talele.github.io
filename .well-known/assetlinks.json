@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.guy_talele.twa",
+        "sha256_cert_fingerprints": ["CF:F4:57:46:D2:90:4E:24:67:61:20:64:07:09:ED:5F:56:5D:0E:00:0E:6C:B5:79:E8:97:6F:0D:87:3A:9D:41"]
+      }
+    }]
